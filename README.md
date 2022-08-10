@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaylynAshtonReddy
 - 👀 I’m interested in using my abilities to help solve real world problems
-- 🌱 I’m currently learning pythong, java and software engineering concepts
+- 🌱 I’m currently learning python, java and software engineering concepts
 - 📫 How to reach me ashton.reddy7@gmail.com
 
 <!---
